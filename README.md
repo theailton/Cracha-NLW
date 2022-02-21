@@ -1,6 +1,8 @@
 # Crachá Virtual da NLW HEAT - DOWHILE
 Cracha virtual criado na trilha Origin na NLW Heat
 
+Visualização do Desktop
+![Versao Desktop](https://github.com/theailton/Cracha-NLW/blob/main/images/VersaoDesktop.jpeg) ![Versao Desktop](https://github.com/theailton/Cracha-NLW/blob/main/images/VersaoMobile.jpeg)
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
