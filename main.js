@@ -1,7 +1,7 @@
 const linksSocialMedia = {
     github : "theailton",
     linkedin : "in/ailtonsantos-dev",
-    instagram : "obassy.dev",
+    instagram : "obassydev",
     twitter : "ObassyDev"
   }
 
